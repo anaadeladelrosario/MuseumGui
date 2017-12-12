@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">Start</string>
+    <string name="welcome_to_the_museum">Welcome to the Museum!</string>
+    <string name="start_navigating_now">Start navigating now!</string>
+    <string name="textFromBeacon">TextFromBeacon</string>
+    <string name="logoimage">logoImage</string>
+    <string name="logo">logo</string>
+    <string name="textview">TextView</string>
+    <string name="editabletext">editableText</string>
+    <string name="backbutton">backButton</string>
+    <string name="back">Back</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="back1">Back</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="find">Find</string>
+    <string name="this_room_is_for_visitors">This room is for visitors</string>
+    <string name="textview1">TextView</string>
+    <string name="the_user_can_see_the_information_again_in_this_textview_if_he_wants_to_remember_something">The user can see the information again in this textView if he wants to remember something</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="text_to_speech">Text to Speech</string>
+</resources>
